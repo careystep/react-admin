@@ -1,0 +1,7 @@
+.role-list-box {
+    height: 200px;
+    overflow-y: scroll;
+}
+.role-list-box .box-item {
+    padding: 5px 0;
+}

@@ -1,0 +1,37 @@
+.sysMenu{
+    position: fixed;
+    top: 60px;
+    width: 175px;
+    height: 100%;
+    z-index: 100;
+    background: #1E465F;
+}
+.sysMenu .user-top {
+    padding-top: 40px;
+    padding-bottom: 1px;
+    text-align: center;
+    background: url(../../images/line.png) center bottom no-repeat;
+}
+.sysMenu .user-top .user-name {
+    margin-top: 5px;
+    color: #fff;
+}
+.sysMenu .user-top img{
+    width: 50px;
+}
+.sysMenu .user-menu{
+    padding: 0 16px;
+}
+.sysMenu .user-menu li a {
+    display: block;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.sysMenu .user-menu li a:hover {
+    border: 1px solid #fff;
+}

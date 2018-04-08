@@ -1,0 +1,17 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background: #008FC7;
+    color: #fff;
+    z-index: 999;
+}
+.header-wrap {
+    width: 1180px;
+    margin: 0 auto;
+}
+.header-wrap .logo {
+
+}

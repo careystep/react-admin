@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+ul,ol,li {
+  list-style: none;
+}
+
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+
+.search-box {padding:1px 10px 10px 0;}
+.search-box h3 {
+  padding-left:10px;}
+.handel-btn-box {
+  text-align: right;
+  padding-right: 70px;
+  padding-bottom: 30px;
+}
+
+.custom-message {
+  z-index: 9999;
+}

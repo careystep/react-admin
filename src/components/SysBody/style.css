@@ -1,0 +1,9 @@
+.sysBody {
+    margin: 0 auto;
+    position: relative;
+}
+.containers {
+    margin-left: 185px;
+    min-height: 100%;
+    background: #f4f4f4;
+}
